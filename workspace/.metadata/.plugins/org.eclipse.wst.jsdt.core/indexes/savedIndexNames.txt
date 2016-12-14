@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+C:\Users\sviat\OneDrive\workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1464300348.index
+3468054286.index
+942132001.index
+2812405744.index
+2380175872.index
